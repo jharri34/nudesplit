@@ -1,0 +1,22 @@
+An intelligent sorting tool that automatically separates your spicy content from your safe-for-work media. 
+Powered by machine learning, nude-split scans your photo library and cleanly splits nudes from non-nudes — no more awkward surprises in your camera roll or gallery.
+Keep your secrets safe, and your scrolls safe-for-work.
+
+ a nudity scanner based on: https://sites.google.com/a/dcs.upd.edu.ph/csp-proceedings/Home/pcsc-2005/AI4.pdf?attredirects=0
+
+  The detection algorithm An Algorithm for Nudity Detection
+
+by R. Ap-Apid
+
+an algorithm for detecting nudity in color
+images. with A skin color distribution model based on the RGB,
+Normalized RGB, and HSV color spaces
+
+The skin color model is
+used to identify and locate skin regions in an image
+
+These
+regions are analyzed for clues indicating nudity or nonnudity
+
+The Nudity Detection
+Algorithm is able to detect nudity with a 94.77%
